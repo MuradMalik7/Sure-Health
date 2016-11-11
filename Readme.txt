@@ -1,0 +1,2 @@
+This is the repository for developing Sure-Health, a project undertaken by Abrar Hassan, Kamran Akbar, Usama Zammer and Muhammad Tayyab,
+student of SEECS-NUST, as a part of end semester project for the course Data Structures and algorithms.
